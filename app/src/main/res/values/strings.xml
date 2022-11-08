@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SM ENTERTAIMENT</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="deskription_menu">S.M. Entertainment adalah perusahaan hiburan Korea Selatan yang didirikan pada tahun 1995 oleh Lee Soo-man. Perusahaan ini sekarang menjadi salah satu perusahaan hiburan terbesar di Korea Selatan.</string>
+    <string name="list_idol">EXO, RED VELVET, NCT 127, NCT DREAM, AESPA</string>
+    <string name="album">SM Global Shop is the official SM Entertainment fashion merchandise store. We carry fashion merchandise, albums, and accessories for various K-Pop artists</string>
+    <string name="group">"SM Groups is Fast and Leading Organization in Real Estate Development Group offering Top Notch services to Every Clients in Every Area. "</string>
+    <string-array name="idol">
+        <item>EXO</item>
+        <item>RED VELVET</item>
+        <item>NCT 127</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.9</item>
+        <item>4.9</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>EXO memiliki arti yaitu outsider atau sesuatu yang berasal dari luar. Mereka dikisahkan merupakan para makhluk dari luar bumi dan berasal dari planet tersendiri yang dinamakan EXOPLANET. Anggota EXO yang ketika debut berjumlah 12 orang pun terbagi menjadi dua sub unit, yakni EXO-K dan juga EXO-M</item>
+        <item>Red Velvet (Hangul: 레드벨벳; RR: Redeubelbet) adalah grup vokal wanita asal Korea Selatan yang dibentuk oleh SM Entertainment pada tahun 2014 dan terdiri dari lima anggota, yaitu Irene, Seulgi, Wendy, Yeri, dan Joy.</item>
+        <item>NCT 127 (Hangul: 엔시티 127; RR: ensiti il-i-chil) adalah sub-unit kedua dari grup vokal pria Korea Selatan NCT yang dibentuk oleh SM Entertainment Nama unit mereka merupakan kombinasi dari akronim Neo Culture Technology dan angka 127 yang mewakili koordinat bujur kota Seoul.</item>
+    </string-array>
+</resources>
